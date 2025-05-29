@@ -48,7 +48,7 @@ export class ResourcesDataProvider implements vscode.TreeDataProvider<ResourcesM
                 customQuerySyntax:"/en-us/search/?category=Documentation&terms=",
                 querySyntax:QueryProvider.getQuerySyntax("/en-us/search/?category=Documentation&terms="),
                 websiteURL:"https://learn.microsoft.com",
-                language: QueryProvider.getLanguage(),
+                language: "",
                 query:QueryProvider.getSelectedText(),
                 icon:"microsoft.png",
                 description:QueryProvider.getLanguageForDescription() + QueryProvider.getSelectedText(),
