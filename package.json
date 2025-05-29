@@ -3,7 +3,7 @@
 		"name": "sadan",
 		"url": "https://sadan.zip"
 	},
-	"name": "insight",
+	"name": "insight-doc",
 	"displayName": "Insight",
 	"description": "VS Code extension for quick access and smart queries of Developer resources such as Google, Stackoverflow, Youtube, MSDN and W3 Schools.",
 	"version": "1.0.2",
