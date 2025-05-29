@@ -45,9 +45,9 @@ export class ResourcesDataProvider implements vscode.TreeDataProvider<ResourcesM
             },
             {
                 label:"MSDN",
-                customQuerySyntax:"/search/en-US?query=",
-                querySyntax:QueryProvider.getQuerySyntax("/search/en-US?query="),
-                websiteURL:"https://social.msdn.microsoft.com",
+                customQuerySyntax:"/en-us/search/?category=Documentation&terms=",
+                querySyntax:QueryProvider.getQuerySyntax("/en-us/search/?category=Documentation&terms="),
+                websiteURL:"https://learn.microsoft.com",
                 language: QueryProvider.getLanguage(),
                 query:QueryProvider.getSelectedText(),
                 icon:"microsoft.png",
