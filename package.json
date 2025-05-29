@@ -1,18 +1,18 @@
 {
 	"author": {
-		"name": "Tyler McGinn",
-		"email": "systematyler@gmail.com"
+		"name": "sadan",
+		"url": "https://sadan.zip"
 	},
 	"name": "insight",
 	"displayName": "Insight",
-	"description": "VS Code extension for quick access and smart queries of Developer resources such as Google,Stackoverflow,Youtube,MSDN and W3 Schools.",
-	"version": "1.0.1",
+	"description": "VS Code extension for quick access and smart queries of Developer resources such as Google, Stackoverflow, Youtube, MSDN and W3 Schools.",
+	"version": "1.0.2",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/TylerMcGinn/Insight.git"
+		"url": "https://github.com/sadan4/Insight.git"
 	},
 	"icon": "Media/128x128_eye.png",
-	"publisher": "TMcGinn",	
+	"publisher": "sadan",	
 	"engines": {
 		"vscode": "^1.34.0"
 	},
